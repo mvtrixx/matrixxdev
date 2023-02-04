@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matrixxdev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me: discord; matrix#0969
 
 <!---
